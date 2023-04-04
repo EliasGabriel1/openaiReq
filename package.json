@@ -1,0 +1,17 @@
+{
+  "name": "openaireq",
+  "version": "1.0.0",
+  "description": "Uma api de requisição para fazer conteudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elias Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "openai": "^3.2.1"
+  }
+}
